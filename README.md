@@ -44,10 +44,10 @@
 
 <p align="center">
 <a href="https://askforyouonline.blogspot.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.akhilskumar.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.twitter.com/IamAKhilSKumar/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Akhil%20S%20kumar-blue?style=flat-square&logo=twitter"></a>
-<a href="https://www.linkedin.com/in/ImAkhilSKumar/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Akhil%20S%20kumar-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.facebook.com/ImAKhilSKumar/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-Akhil%20S%20kumar-blue?style=flat-square&logo=facebook"></a>
-<a href="https://www.instagram.com/_.akhil.sk._/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Akhil%20S%20kumar-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.twitter.com/IamAKhilSKumar/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-IamAkhilSKumar-blue?style=flat-square&logo=twitter"></a>
+<a href="https://www.linkedin.com/in/ImAkhilSKumar/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ImAkhilSKumar-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.facebook.com/ImAKhilSKumar/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-ImAkhilSKumar-blue?style=flat-square&logo=facebook"></a>
+<a href="https://www.instagram.com/_.akhil.sk._/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-_.akhil.sk._-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:akhilskumar120@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-akhilskumar120@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
