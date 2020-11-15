@@ -26,7 +26,7 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Sublime Text](https://img.shields.io/badge/-Sublime20Text-333333?style=flat&logo=sublime-text)
+  ![Sublime Text](https://img.shields.io/badge/-Sublime%20%Text-333333?style=flat&logo=sublime-text)
 - 🖥 &nbsp;
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
@@ -47,7 +47,7 @@
 <a href="https://www.twitter.com/IamAKhilSKumar/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Akhil%20S%20kumar-blue?style=flat-square&logo=twitter"></a>
 <a href="https://www.linkedin.com/in/ImAkhilSKumar/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Akhil%20S%20kumar-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.facebook.com/ImAKhilSKumar/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-Akhil%20S%20kumar-blue?style=flat-square&logo=facebook"></a>
-<a href="https://www.instagram.com/_.akhil.sk._/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Akhil%20S%20kuma-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/_.akhil.sk._/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Akhil%20S%20kumar-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:akhilskumar120@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-akhilskumar120@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
