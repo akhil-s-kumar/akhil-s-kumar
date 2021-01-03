@@ -45,7 +45,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://askforyouonline.blogspot.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.akhilskumar.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://akhil-s-kumar.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-www.akhil-s-kumar.github.io-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.twitter.com/IamAKhilSKumar/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-IamAkhilSKumar-blue?style=flat-square&logo=twitter"></a>
 <a href="https://www.linkedin.com/in/ImAkhilSKumar/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ImAkhilSKumar-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.facebook.com/ImAKhilSKumar/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-ImAkhilSKumar-blue?style=flat-square&logo=facebook"></a>
