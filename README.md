@@ -5,7 +5,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Electronics & Computer Engineering at Amrita Vishwa Vidyapeetham.
 - 🎓 &nbsp; Studied Computer Science at Kendriya Vidyalaya, Army Cantt Pangode.
-- 💼 &nbsp; Working as Freelance Web Developer & UI/UX Designer.
+- 💼 &nbsp; Working for creating new technologies and solutions for helping the society.
 - 🌱 &nbsp; Learning more about Machine Learning, Artificial Intelligence and Flutter.
 - ✍️ &nbsp; Pursuing Web Designing and Youtuber as hobbies/side hustles.
 
