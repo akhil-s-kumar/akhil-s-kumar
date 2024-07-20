@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Electronics & Computer Engineering at Amrita Vishwa Vidyapeetham.
+- 🎓 &nbsp; Studied Electronics & Computer Engineering at Amrita Vishwa Vidyapeetham.
 - 🎓 &nbsp; Studied Computer Science at Kendriya Vidyalaya, Army Cantt Pangode.
 - 💼 &nbsp; Working for creating new technologies and solutions for helping the society.
 - 🌱 &nbsp; Learning more about Machine Learning, Artificial Intelligence and Flutter.
