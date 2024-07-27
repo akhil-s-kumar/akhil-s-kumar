@@ -14,6 +14,7 @@
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
+  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![Golang](https://img.shields.io/badge/-Golang-333333?style=flat&logo=go)
 - 🌐 &nbsp;
@@ -25,6 +26,7 @@
   ![Gatsby](https://img.shields.io/badge/-Gatsby-333333?style=flat&logo=gatsby)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![PostgreSQL](https://img.shields.io/badge/-POSTGRESQL-333333?style=flat&logo=postgresql)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
@@ -32,6 +34,12 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-333333?style=flat&logo=sublime-text)
+- 🕸 &nbsp;
+  ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql)
+  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+  ![Jmeter](https://img.shields.io/badge/-Jmeter-333333?style=flat&logo=apachejmeter)
+- ☁️ &nbsp;
+  ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonwebservices)
 - 🖥 &nbsp;
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
