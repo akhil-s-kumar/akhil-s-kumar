@@ -6,7 +6,7 @@
 - 🎓 &nbsp; Studied Electronics & Computer Engineering at Amrita Vishwa Vidyapeetham.
 - 🎓 &nbsp; Studied Computer Science at Kendriya Vidyalaya, Army Cantt Pangode.
 - 💼 &nbsp; Working for creating new technologies and solutions for helping the society.
-- 🌱 &nbsp; Learning more about Machine Learning, Artificial Intelligence and Flutter.
+- 🌱 &nbsp; Learning more about Machine Learning, Artificial Intelligence and Cloud Computing.
 - ✍️ &nbsp; Pursuing Web Designing and Youtuber as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
